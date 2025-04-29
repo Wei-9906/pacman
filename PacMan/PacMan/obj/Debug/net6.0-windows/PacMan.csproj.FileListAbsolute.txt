@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.Form1.resources
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.Properties.Resources.resources
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.AssemblyInfo.cs
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PacMan\PacMan\bin\Debug\net6.0-windows\PacMan.exe
+C:\Users\User\Desktop\PacMan\PacMan\bin\Debug\net6.0-windows\PacMan.deps.json
+C:\Users\User\Desktop\PacMan\PacMan\bin\Debug\net6.0-windows\PacMan.runtimeconfig.json
+C:\Users\User\Desktop\PacMan\PacMan\bin\Debug\net6.0-windows\PacMan.dll
+C:\Users\User\Desktop\PacMan\PacMan\bin\Debug\net6.0-windows\PacMan.pdb
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.dll
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\refint\PacMan.dll
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.pdb
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\PacMan.genruntimeconfig.cache
+C:\Users\User\Desktop\PacMan\PacMan\obj\Debug\net6.0-windows\ref\PacMan.dll
